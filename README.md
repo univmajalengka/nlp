@@ -1,4 +1,3 @@
-# course
 # Preamble
 This repository contains the lecture slides and course description for the Natural Language Processing course offered by Prodi Informatika at the Universitas Majalengka. 
 
@@ -30,11 +29,11 @@ Each meeting will contains three sections:
 ## 1. Lecture 1 - Introduction
 This lecture introduces the course and motivates why it is interesting to study language processing.
 
-[[slides]](nlp/01_Lecture_Intro.pdf)
+[[slides]](01_Lecture_Intro.pdf)
 
 ### Weekly Assignments
 Python and NLTK introduction.
-[[description]](nlp/PythonIntroduction_NLP.pdf) Please do the exercise and answer the questions on no. 6 and 7!
+[[description]](PythonIntroduction_NLP.pdf) Please do the exercise and answer the questions on no. 6 and 7!
 
 ## 2. Lecture 2 - Language Modeling
 This lecture introduces the concept of Language Modeling (LM), the definition and the computation of LM probability component (unigram, bigram, likelihood), LM development process, and LM evaluation.
@@ -43,12 +42,12 @@ I used slide from Jurafsky and Manning NLP course, which can be found in https:/
 
 ### Weekly Assignments
 Building simple Language Model and the application: Poetry Generator.
-[[description]](nlp/assignment) 
+[[description]](assignment) 
 
 ## 3. Lecture 3 - POSTagging
 This lecture introduces the POSTag of words and the method on assigning POSTag to words.
 
-[[slides]](nlp/03_POSTagging.pdf)
+[[slides]](03_POSTagging.pdf)
 
 ### Reading Materials
 [[Part-of-Speech-Tagging]](https://web.stanford.edu/~jurafsky/slp3/10.pdf) 
@@ -59,7 +58,7 @@ TODO
 ## 4. Lecture 4 - POSTagging & Hidden Markov Model (HMM)
 This lecture introduces the HMM method for assigning POSTag to words in a sentence.
 
-[[slides]](nlp/04_HMM_POSTagging.pdf)
+[[slides]](04_HMM_POSTagging.pdf)
 
 ### Reading Materials
 [[Hidden-Markov-Models]](https://web.stanford.edu/~jurafsky/slp3/9.pdf) 
@@ -75,7 +74,7 @@ MyPOSTagger
 
 ## 5. Lecture 5 - Context Free Grammar, Syntactic Parsing
 
-[[slides]](nlp/05_CFG.pdf)
+[[slides]](05_CFG.pdf)
 
 ### Reading Materials
 [[Syntactic Parsing]](https://web.stanford.edu/~jurafsky/slp3/12.pdf) 
@@ -83,7 +82,7 @@ MyPOSTagger
 
 ## 6. Lecture 6 - Probabilistic CFG, CKY Algorithm
 
-[[slides]](nlp/06_PCFG_CYK.pdf)
+[[slides]](06_PCFG_CYK.pdf)
 
 ### Reading Materials
 [[Statistical Parsing]](https://web.stanford.edu/~jurafsky/slp3/13.pdf) 
@@ -91,7 +90,7 @@ MyPOSTagger
 
 ## 7. Lecture 7 - Parser Evaluation, Lexicalized PCFG, Dependency Parsing Introduction
 
-[[slides]](nlp/07_Syntactic_Parsing.pdf)
+[[slides]](07_Syntactic_Parsing.pdf)
 
 ### Reading Materials
 [[Dependency Parsing]](https://web.stanford.edu/~jurafsky/slp3/14.pdf) 
